@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2633436657">
+    <data-source source="LOCAL" name="Django default" uuid="c0a3f570-9a4b-45f1-9f10-c4bc132667f2">
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://:3306/ppl</jdbc-url>
+      <user-name>ppldb</user-name>
+      <user-password>dffbdfc0dfd0dfc6dfcedfdcdfc1dfcedfc6dfdedfc7dfd0dfc4dfdadfcedfc0</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
